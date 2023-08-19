@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlflow-1/mlruns/530981487226609820/a463cbbfb60e4769a18b8874e5a81cc9/artifacts
+end_time: 1692445648533
+entry_point_name: ''
+experiment_id: '530981487226609820'
+lifecycle_stage: active
+run_id: a463cbbfb60e4769a18b8874e5a81cc9
+run_name: merciful-pig-973
+run_uuid: a463cbbfb60e4769a18b8874e5a81cc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692445648487
+status: 3
+tags: []
+user_id: codespace

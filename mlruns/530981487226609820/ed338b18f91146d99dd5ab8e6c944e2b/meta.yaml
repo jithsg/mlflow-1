@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlflow-1/mlruns/530981487226609820/ed338b18f91146d99dd5ab8e6c944e2b/artifacts
+end_time: 1692445607268
+entry_point_name: ''
+experiment_id: '530981487226609820'
+lifecycle_stage: active
+run_id: ed338b18f91146d99dd5ab8e6c944e2b
+run_name: redolent-flea-53
+run_uuid: ed338b18f91146d99dd5ab8e6c944e2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692445607214
+status: 3
+tags: []
+user_id: codespace

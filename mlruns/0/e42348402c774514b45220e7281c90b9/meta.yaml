@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlflow-1/mlruns/0/e42348402c774514b45220e7281c90b9/artifacts
+end_time: 1692442888257
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e42348402c774514b45220e7281c90b9
+run_name: caring-mink-260
+run_uuid: e42348402c774514b45220e7281c90b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692442888236
+status: 3
+tags: []
+user_id: codespace

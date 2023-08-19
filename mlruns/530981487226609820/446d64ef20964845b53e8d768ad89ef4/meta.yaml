@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlflow-1/mlruns/530981487226609820/446d64ef20964845b53e8d768ad89ef4/artifacts
+end_time: 1692445433493
+entry_point_name: ''
+experiment_id: '530981487226609820'
+lifecycle_stage: active
+run_id: 446d64ef20964845b53e8d768ad89ef4
+run_name: agreeable-deer-532
+run_uuid: 446d64ef20964845b53e8d768ad89ef4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692445433454
+status: 3
+tags: []
+user_id: codespace

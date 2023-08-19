@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlflow-1/mlruns/0/e576c3d98c8c453fa9ea45d037f2a7f2/artifacts
+end_time: 1692443045885
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e576c3d98c8c453fa9ea45d037f2a7f2
+run_name: rumbling-stag-608
+run_uuid: e576c3d98c8c453fa9ea45d037f2a7f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692443045862
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlflow-1/mlruns/0/b2ceb2eb430345da84e1b0d254684b4e/artifacts
+end_time: 1692443107110
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2ceb2eb430345da84e1b0d254684b4e
+run_name: powerful-seal-646
+run_uuid: b2ceb2eb430345da84e1b0d254684b4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692443107089
+status: 3
+tags: []
+user_id: codespace
